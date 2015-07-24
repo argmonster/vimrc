@@ -1,0 +1,1 @@
+/home/Tim/src/vim-usc/usc.vim
